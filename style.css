@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f1ece4;
+  color: #3a3128;
+}
+
+header {
+  text-align: center;
+  padding: 30px;
+  background: #d8c7b0;
+}
+
+.hero {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 40px;
+}
+
+.stone-card {
+  background: #fffaf3;
+  border: 2px solid #b89f7a;
+  padding: 20px;
+  min-width: 180px;
+  border-radius: 14px;
+  text-align: center;
+}
